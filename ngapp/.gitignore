@@ -39,8 +39,8 @@ build/Release
 
 # Dependency directory
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git-
-node_modules
+# node_modules
 
 # compiled javaScript and css
-app/scripts
-app/styles
+# app/scripts
+# app/styles
